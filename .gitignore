@@ -1,0 +1,26 @@
+# Ignorar arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de editores de código
+.vscode/
+*.code-workspace
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignorar arquivos temporários e caches
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignorar dependências de build
+node_modules/
+dist/
+build/
+
+# Ignorar arquivos sensíveis
+.env
+*.key
+*.pem
