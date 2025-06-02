@@ -1,7 +1,8 @@
 # Comunicados - Guilda AURION
 
 Pagina simples para comunicar os membros da guilda a respeito do encerramento do evento.
-Acesse o link em: [https://github.com/HotusBR/Comunidados](https://github.com/HotusBR/Comunidados)
+
+Acesse o link em: [https://hotusbr.github.io/Comunidados/](https://hotusbr.github.io/Comunidados/)
 
 ## Créditos
 - Desenvolvido por **Hotus** para a **Guilda Aurion [HWO]**.
